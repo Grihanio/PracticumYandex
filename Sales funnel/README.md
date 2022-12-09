@@ -7,7 +7,6 @@ A/B-тестирование <br>
 Python <br>
 Pandas <br>
 Matplotlib <br>
-Seaborn <br>
 Событийная аналитика <br>
 Продуктовые метрики <br>
 Plotly <br>
